@@ -20,13 +20,19 @@ I'm an **Undergrad Student🎓 [@Thapar Institute of Engineering and Technology]
 
 <img width="490" height="270" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVpYjM1dHVjc3Zkcmk0ZXBkYWJzZWh5Nmh4YmtjNTl1am41bDdhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/CKF2uJ9zMVrjc9N4Yu/giphy.gif" align="right">
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on:
-  - 📱 Web Development Projects
-  - 🏆 Competitive Programming
-  - 🛠 Real-World Problem-Solving
-- 🌟 Passionate about technology and continuous learning
-- 🎉 Fun-Fact: I enjoy brainstorming creative solutions to complex problems!
-
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I’m currently working on:
+  - 📱 React Native & Full-Stack Applications  
+  - 🌐 Scalable Web Platforms  
+- 🌱 I’m currently learning:
+  - Backend Engineering  
+  - Cloud Deployment & System Design  
+- 🤝 I’m looking to collaborate on:
+  - Open-source projects  
+  - Startup ideas & product-based apps  
+- 💬 Ask me about:
+  - Full Stack Development🔭🌟
+- 🎉 Fun fact:
+  - I love turning **complex ideas into simple products**
   
 ### 🖥️ My DevSetup
  <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Git-555555.svg?&style=flat-square&logo=git&logoColor=F05032">  <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
