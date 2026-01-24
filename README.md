@@ -81,7 +81,7 @@ I'm an **Undergrad Student🎓 [@Thapar Institute of Engineering and Technology]
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/AbhyanBansal/AbhyanBansal/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/AbhyanBansal/AbhyanBansal/output/github-contribution-grid-snake.svg" />
 </p>
 
 
