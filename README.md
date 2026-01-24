@@ -85,7 +85,7 @@ I'm an **Undergrad Student🎓 [@Thapar Institute of Engineering and Technology]
 </p>
 
 
-## 🎧 Spotify Now Playing
+<!--## 🎧 Spotify Now Playing
 
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gpz2gnkv973u1qx8lx3m6j3fm&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false"/>
