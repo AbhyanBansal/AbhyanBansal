@@ -18,16 +18,21 @@ I'm an **Undergrad Student🎓 [@Thapar Institute of Engineering and Technology]
 
 <p align="center">
   <a href="https://abhyanbansal.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/AbhyanBansal/AbhyanBansal/main/facelogo.png" width="60" />
+    <img src="https://raw.githubusercontent.com/AbhyanBansal/AbhyanBansal/main/facelogo.png" width="80" alt="Logo" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://abhyanbansal.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live-ff8c00?style=for-the-badge&logo=google-chrome&logoColor=white">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ff8c00&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Abhyan!;Check+out+my+Interactive+Portfolio+below!+%E2%86%93" alt="Typing SVG" />
   </a>
 </p>
 
+<p align="center">
+   <a href="https://abhyanbansal.com" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_See_My_Work-ABHYANBANSAL.COM-black?style=for-the-badge&logo=vercel&logoColor=white&color=000000&labelColor=ff8c00" />
+   </a>
+</p>
 
 ## ⚡️ A Few Quick Facts
 
