@@ -17,7 +17,7 @@ I'm an **Undergrad Student🎓 [@Thapar Institute of Engineering and Technology]
 <br/>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://abhyanbansal.com" target="_blank">
     <img src="https://raw.githubusercontent.com/AbhyanBansal/AbhyanBansal/main/facelogo.png" width="60" />
   </a>
 </p>
