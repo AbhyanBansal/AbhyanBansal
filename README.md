@@ -24,7 +24,7 @@ I'm an **Undergrad Student🎓 [@Thapar Institute of Engineering and Technology]
 
 <p align="center">
   <a href="https://abhyanbansal.com" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ff8c00&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Abhyan!;Check+out+my+Interactive+Portfolio+below!+%E2%86%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ff8c00&center=true&vCenter=true&width=600&lines=Hi,+I'm+Abhyan!;Check+out+my+Portfolio+below!+%E2%86%93" alt="Typing SVG" />
   </a>
 </p>
 
