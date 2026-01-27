@@ -6,7 +6,7 @@ I am <b>Abhyan Bansal</b>, thanks for taking the time to visit my GitHub profile
 </p>
 
 <p align="center">
-    <a href="https://github.com/k-vanshhh">
+    <a href="https://github.com/AbhyanBansal">
         <img src="https://img.shields.io/github/followers/AbhyanBansal?label=Follow&logo=github&color=7289da&style=for-the-badge">
     </a>    
 </p>
