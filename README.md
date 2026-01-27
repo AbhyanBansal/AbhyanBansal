@@ -16,6 +16,19 @@ I'm an **Undergrad Student🎓 [@Thapar Institute of Engineering and Technology]
 
 <br/>
 
+<p align="center">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/AbhyanBansal/AbhyanBansal/main/facelogo.png" width="60" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://abhyanbansal.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-ff8c00?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+</p>
+
+
 ## ⚡️ A Few Quick Facts
 
 <img width="490" height="270" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVpYjM1dHVjc3Zkcmk0ZXBkYWJzZWh5Nmh4YmtjNTl1am41bDdhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/CKF2uJ9zMVrjc9N4Yu/giphy.gif" align="right">
